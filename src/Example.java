@@ -72,6 +72,6 @@ public class Example
     public static void main(String[] args)
     {
         new Example().initial();
-        System.out.println("no");
+        System.out.println("ok");
     }
 }
